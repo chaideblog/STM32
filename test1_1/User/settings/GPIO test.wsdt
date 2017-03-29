@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>GPIO test/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>153</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>750</ColumnWidth1><ColumnWidth2>200</ColumnWidth2><ColumnWidth3>50</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1860</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+    <Find-in-Files><ColumnWidth0>552</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12296-15102</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>GPIO test</ExpandedNode><ExpandedNode>GPIO test/Boot</ExpandedNode><ExpandedNode>GPIO test/Library</ExpandedNode><ExpandedNode>GPIO test/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19408-27250</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          
+        <Tab><Identity>TabID-27719-22820</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-2807-14902</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1344</SelStart><SelEnd>1344</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>113</YPos><SelStart>7650</SelStart><SelEnd>7650</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\src\stm32f10x_can.c</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>4179</SelStart><SelEnd>4187</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2380</SelStart><SelEnd>2393</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>395</YPos><SelStart>12185</SelStart><SelEnd>12185</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Boot\stm32f10x.h</Filename><XPos>0</XPos><YPos>180</YPos><SelStart>10430</SelStart><SelEnd>10448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>520</YPos><SelStart>21852</SelStart><SelEnd>21858</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-004ac110><key>iaridepm.enu1</key></Toolbar-004ac110></Sizes></Row0><Row1><Sizes><Toolbar-004ec4c0><key>debuggergui.enu1</key></Toolbar-004ec4c0></Sizes></Row1><Row2><Sizes><Toolbar-004ec718><key>armjlink.enu1</key></Toolbar-004ec718></Sizes></Row2></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>534</Bottom><Right>227</Right><x>-2</x><y>-2</y><xscreen>167</xscreen><yscreen>164</yscreen><sizeHorzCX>104375</sizeHorzCX><sizeHorzCY>200489</sizeHorzCY><sizeVertCX>143125</sizeVertCX><sizeVertCY>655257</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>239</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>241</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>294621</sizeHorzCY><sizeVertCX>104375</sizeVertCX><sizeVertCY>200489</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
